@@ -1,4 +1,4 @@
-# Unicorn_Companies_Analysis
+# Unicorn_Startups_Analysis
 
 This repository contains SQL queries and data for analyzing unicorn companies (privately held startup companies valued at over \$1 billion). The project uses Microsoft SQL Server Management Studio to perform various analyses on a dataset of unicorn companies.
 
