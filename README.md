@@ -63,3 +63,15 @@ The queries in this project provide various insights, including:
 - Investment patterns and market dynamics
 
 These insights can be valuable for investors, entrepreneurs, policymakers, and researchers interested in the global startup and venture capital landscape.
+
+## Power BI Dashboard
+
+This project includes a Power BI dashboard for visual analysis of the unicorn companies data. Below is a preview of the dashboard:
+
+![Screenshot 2024-08-15 134751](https://github.com/user-attachments/assets/7a5281f3-e941-45d9-87be-21dca6f48a89)
+
+
+For the full interactive experience, please refer to the Pbix file in the `pbix files/` directory.
+
+
+
